@@ -14,7 +14,7 @@ A basic ASP.NET Core Web API that provides endpoints to manage a collection of v
 
 ## Prerequisites
 
-- .NET 7.0 SDK or later
+- .NET 9.0 SDK or later
 - An IDE like Visual Studio or VS Code
 
 ## Installation
